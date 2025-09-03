@@ -1,0 +1,43 @@
+# Arquivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Arquivos de depuração
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos de dependência
+*.d
+
+# Diretórios de build
+build/
+Debug/
+Release/
+dist/
+
+# Arquivos específicos do projeto
+main
+test
+app
+
+# Arquivos do IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e arquivos temporários
+*.log
+tmp/
+temp/
